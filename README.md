@@ -18,4 +18,6 @@ ENTER-> Continue: In any menu, pressing enter proceeds the game to go to the nex
 Credits: <br>
 My knight character, the map elements, background music, and sound effects: https://brackeysgames.itch.io/brackeys-platformer-bundle <br>
 The fairy that follows the knight: https://www.pinterest.com/pin/fairy-pixel-art-pattern--22940279345227295/ <br>
-The hearts on the top left to indicate lives: https://pngtree.com/so/pixel-heart-shape <br>
+The hearts on the top left to indicate lives: https://pngtree.com/so/pixel-heart-shape <br> <br>
+
+Sidenote: I realized that I didn't fix the Hiroko name for my game (I reused a few files from our lectures and exercises) so I apologize in advance for that mistake
